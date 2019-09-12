@@ -1,0 +1,3 @@
+[submodule "newRepository"]
+	path = newRepository
+	url = https://github.com/christenkcheng/newRepository.git
